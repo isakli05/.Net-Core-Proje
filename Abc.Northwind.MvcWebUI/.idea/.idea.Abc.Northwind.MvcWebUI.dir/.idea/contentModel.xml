@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Abc.Northwind.MvcWebUI.csproj" t="IncludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="AccountController.cs" t="Include" />
+        <e p="AdminController.cs" t="Include" />
+        <e p="CartController.cs" t="Include" />
+        <e p="ProductController.cs" t="Include" />
+      </e>
+      <e p="Entities" t="Include">
+        <e p="CustomIdentityDbContext.cs" t="Include" />
+        <e p="CustomIdentityRole.cs" t="Include" />
+        <e p="CustomIdentityUser.cs" t="Include" />
+      </e>
+      <e p="ExtensionMethods" t="Include">
+        <e p="SessionExtensionMethods.cs" t="Include" />
+      </e>
+      <e p="MiddleWares" t="Include">
+        <e p="ApplicationBuilderExtensions.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="CartListViewModel.cs" t="Include" />
+        <e p="CartSummeryViewModel.cs" t="Include" />
+        <e p="CategoryListViewModel.cs" t="Include" />
+        <e p="LoginViewModel.cs" t="Include" />
+        <e p="ProductAddViewModel.cs" t="Include" />
+        <e p="ProductListViewModel.cs" t="Include" />
+        <e p="ProductUpdateViewModel.cs" t="Include" />
+        <e p="RegisterViewModel.cs" t="Include" />
+        <e p="ShippingDetailsViewModel.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="CartSessionService.cs" t="Include" />
+        <e p="ICartSessionService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="TagHelpers" t="Include">
+        <e p="PagingTagHelper.cs" t="Include" />
+      </e>
+      <e p="ViewComponents" t="Include">
+        <e p="CartSummeryViewComponent.cs" t="Include" />
+        <e p="CategoryListViewComponent.cs" t="Include" />
+      </e>
+      <e p="Views" t="Include">
+        <e p="Account" t="Include">
+          <e p="Login.cshtml" t="Include" />
+          <e p="Register.cshtml" t="Include" />
+        </e>
+        <e p="Admin" t="Include">
+          <e p="Add.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Update.cshtml" t="Include" />
+        </e>
+        <e p="Cart" t="Include">
+          <e p="Complete.cshtml" t="Include" />
+          <e p="List.cshtml" t="Include" />
+        </e>
+        <e p="Product" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="Components" t="Include">
+            <e p="CartSummery" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+            <e p="CategoryList" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="_AdminLayout.cshtml" t="Include" />
+        <e p="_Layout.cshtml" t="Include" />
+        <e p="_ViewImports.cshtml" t="Include" />
+      </e>
+      <e p="app.config" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="node_modules/bootstrap" t="IncludeRecursive" />
+      <e p="node_modules/jquery" t="IncludeRecursive" />
+      <e p="node_modules/jquery-validation" t="IncludeRecursive" />
+      <e p="node_modules/jquery-validation-unobtrusive" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Abc.Northwind.MvcWebUI.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

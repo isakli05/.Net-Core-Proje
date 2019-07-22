@@ -1,0 +1,11 @@
+/home/isa/RiderProjects/Abc/Abc.Core/bin/Debug/netcoreapp2.2/Abc.Core.deps.json
+/home/isa/RiderProjects/Abc/Abc.Core/bin/Debug/netcoreapp2.2/Abc.Core.dll
+/home/isa/RiderProjects/Abc/Abc.Core/bin/Debug/netcoreapp2.2/Abc.Core.pdb
+/home/isa/RiderProjects/Abc/Abc.Core/obj/Debug/netcoreapp2.2/Abc.Core.csprojAssemblyReference.cache
+/home/isa/RiderProjects/Abc/Abc.Core/obj/Debug/netcoreapp2.2/Abc.Core.csproj.CoreCompileInputs.cache
+/home/isa/RiderProjects/Abc/Abc.Core/obj/Debug/netcoreapp2.2/Abc.Core.AssemblyInfoInputs.cache
+/home/isa/RiderProjects/Abc/Abc.Core/obj/Debug/netcoreapp2.2/Abc.Core.AssemblyInfo.cs
+/home/isa/RiderProjects/Abc/Abc.Core/obj/Debug/netcoreapp2.2/Abc.Core.dll
+/home/isa/RiderProjects/Abc/Abc.Core/obj/Debug/netcoreapp2.2/Abc.Core.pdb
+/home/isa/RiderProjects/Abc/Abc.Core/bin/Debug/netcoreapp2.2/Abc.Core.runtimeconfig.json
+/home/isa/RiderProjects/Abc/Abc.Core/bin/Debug/netcoreapp2.2/Abc.Core.runtimeconfig.dev.json

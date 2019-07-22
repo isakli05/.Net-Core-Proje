@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9956CF6D-0CB8-4024-8307-2DCFB48F0762}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abc.Northwind.MvcWebUI/Views/_Layout.cshtml">
+    <Files>
+      <File FileName="Abc.Northwind.MvcWebUI/Views/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Abc" expanded="True">
+            <Node name="Abc.Northwind.MvcWebUI" expanded="True">
+              <Node name="node_modules" expanded="True">
+                <Node name="bootstrap" expanded="True">
+                  <Node name="dist" expanded="True">
+                    <Node name="js" expanded="True">
+                      <Node name="bootstrap.js" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Abc.Northwind.MvcWebUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

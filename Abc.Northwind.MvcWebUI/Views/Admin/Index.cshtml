@@ -1,0 +1,35 @@
+@model Abc.Northwind.MvcWebUI.Models.ProductListViewModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<h2>Product list</h2>
+<a class="btn btn-success" asp-controller="Admin" asp-action="Add">add a new product</a>
+<div>
+    <table class="table table-hover pt-3">
+        <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Fiyat</th>
+            <th>stok</th>
+            <th>Kategory ID</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.UnitPrice</td>
+                <td>@product.UnitsInStock</td>
+                <td>@product.CategoryId</td>
+                <td><a class="btn btn-info" asp-controller="Admin" asp-action="Update" asp-route-productId="@product.ProductId">Update</a></td>
+                <td><a class="btn btn-danger" asp-controller="Admin" asp-action="Delete" asp-route-productId="@product.ProductId">Delete</a></td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>    

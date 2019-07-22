@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/isa/RiderProjects/Abc/Abc.Northwind.Business/Abc.Northwind.Business.csproj",
+    "projectName": "Abc.Northwind.Business",
+    "projectPath": "/home/isa/RiderProjects/Abc/Abc.Northwind.Business/Abc.Northwind.Business.csproj",
+    "outputPath": "/home/isa/RiderProjects/Abc/Abc.Northwind.Business/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/isa/RiderProjects/Abc/Abc.Northwind.DataAccess/Abc.Northwind.DataAccess.csproj": {
+            "projectPath": "/home/isa/RiderProjects/Abc/Abc.Northwind.DataAccess/Abc.Northwind.DataAccess.csproj"
+          },
+          "/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/Abc.Northwind.Entites.csproj": {
+            "projectPath": "/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/Abc.Northwind.Entites.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+          "target": "Package",
+          "version": "[2.0.3, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

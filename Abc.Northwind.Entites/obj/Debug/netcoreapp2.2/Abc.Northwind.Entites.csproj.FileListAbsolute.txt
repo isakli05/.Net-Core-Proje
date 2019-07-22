@@ -1,0 +1,14 @@
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/bin/Debug/netcoreapp2.2/Abc.Northwind.Entites.deps.json
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/bin/Debug/netcoreapp2.2/Abc.Northwind.Entites.dll
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/bin/Debug/netcoreapp2.2/Abc.Northwind.Entites.pdb
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/bin/Debug/netcoreapp2.2/Abc.Core.dll
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/bin/Debug/netcoreapp2.2/Abc.Core.pdb
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/obj/Debug/netcoreapp2.2/Abc.Northwind.Entites.csprojAssemblyReference.cache
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/obj/Debug/netcoreapp2.2/Abc.Northwind.Entites.csproj.CoreCompileInputs.cache
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/obj/Debug/netcoreapp2.2/Abc.Northwind.Entites.AssemblyInfoInputs.cache
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/obj/Debug/netcoreapp2.2/Abc.Northwind.Entites.AssemblyInfo.cs
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/obj/Debug/netcoreapp2.2/Abc.Northwind.Entites.csproj.CopyComplete
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/obj/Debug/netcoreapp2.2/Abc.Northwind.Entites.dll
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/obj/Debug/netcoreapp2.2/Abc.Northwind.Entites.pdb
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/bin/Debug/netcoreapp2.2/Abc.Northwind.Entites.runtimeconfig.json
+/home/isa/RiderProjects/Abc/Abc.Northwind.Entites/bin/Debug/netcoreapp2.2/Abc.Northwind.Entites.runtimeconfig.dev.json

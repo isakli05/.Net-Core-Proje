@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_AdminLayout.cshtml" line="45" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="847993a6-ca31-4f2f-b36a-20d44d25bb47" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Abc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/AdminController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductAddViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/Category.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$PROJECT_DIR$/Abc.Northwind.MvcWebU</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/UserSummery/Default.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/UserSummeryViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_AdminLayout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Add.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductAddViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/95/1181c373/ObjectMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/21/e775927c/ActionMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.DataAccess/Abstract/IProductDal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.DataAccess/Abstract/ICategoryDal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Business/Abstract/IProductService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.DataAccess/Concrete/EntityFramework/EfProductDal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Business/Abstract/ICategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/26/5d8d429e/ControllerActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.DataAccess/Concrete/EntityFramework/EfCategoryDal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Business/Concrete/ProductManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.DataAccess/Concrete/EntityFramework/NorthwindContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Business/Concrete/CategoryManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/05/c798fe6a/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Update.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductUpdateViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/MiddleWares/ApplicationBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/app.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/CartController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Services/CartSessionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Services/ICartSessionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/CartSummeryViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/72/2ac683bc/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CartSummeryViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Business/Concrete/CartService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/CartSummery/Default.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/CategoryListViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Business/Abstract/ICartService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CategoryListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/Cart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/CartLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ExtensionMethods/SessionExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Core/DataAccess/IEntityRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/AdminController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CartListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Cart/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Core/Entities/IEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/ShippingDetails.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/CategoryList/Default.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/RegisterViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9D395C7-D789-4D3C-9AB7-AE078B0A0E4A/aa/24f23d3d/TagHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Account/Login.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Cart/Complete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Account/Register.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ShippingDetailsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/TagHelpers/PagingTagHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Product/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/UserDetailsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Abc.Northwind.Business/Abstract/ICartService.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.Business/Concrete/CartService.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Services/ICartServices.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Services/ICartSessionService.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.Business/Abstract/IProductService.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.Business/Concrete/ProductManager.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Services/CartSessionService.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Pages/Components/CartSummery/Default.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CartSummeryViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/CartSummeryViewComponent.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CartListViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Pages/Cart/List.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/Cart/List.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/CategoryList/Default.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Cart/List.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/ShippingDetails.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ShippingDetailsViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Cart/Complete.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/CartController.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Pages/Admin/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductListViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Product/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/Product.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductAddViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Add.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductUpdateViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Update.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/AdminController.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityUser.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityRole.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/Custom.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityDbContext.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/LoginViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Pages/Account/Login.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Account/Login.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Account/Register.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Abc.Northwind.MvcWebUI.csproj" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/RegisterViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/UserDetailsViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Pages/Components/UserSummeryViewComponents/Default.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CategoryListViewModel.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/UserSummeryViewComponents.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/UserSummeryViewComponent.cs" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_AdminLayout.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/CartSummery/Default.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/UserSummery/Default.cshtml" />
+        <option value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="12" />
+    <option name="width" value="1366" />
+    <option name="height" value="346" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource SolutionExplorer="false" />
+      <autoscrollFromSource SolutionExplorer="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Abc" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Abc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Abc.Northwind.MvcWebUI" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Abc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Abc.Northwind.MvcWebUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Abc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Abc.Northwind.MvcWebUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Abc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Abc.Northwind.MvcWebUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Admin" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="java.sql.Driver&#10;postgresql" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/İndirilenler/Abc/Abc.Northwind.MvcWebUI/Views/Shared/Components/UserSummary/Default.cshtml" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/bin/Debug/netcoreapp2.2/Abc.Northwind.MvcWebUI.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Abc.Northwind.MvcWebUI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="847993a6-ca31-4f2f-b36a-20d44d25bb47" name="Default Changelist" comment="" />
+      <created>1559563260113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559563260113</updated>
+      <workItem from="1559563267529" duration="562000" />
+      <workItem from="1559563983950" duration="8527000" />
+      <workItem from="1559575262114" duration="4960000" />
+      <workItem from="1559606675271" duration="1626000" />
+      <workItem from="1559608374719" duration="5017000" />
+      <workItem from="1559666507222" duration="8163000" />
+      <workItem from="1559747290011" duration="8930000" />
+      <workItem from="1559790306483" duration="23160000" />
+      <workItem from="1559857258322" duration="8652000" />
+      <workItem from="1559869034083" duration="589000" />
+      <workItem from="1559908251277" duration="11209000" />
+      <workItem from="1559922845695" duration="10709000" />
+      <workItem from="1559987387733" duration="1708000" />
+      <workItem from="1560204909782" duration="1738000" />
+      <workItem from="1560258351170" duration="308000" />
+      <workItem from="1560393668655" duration="674000" />
+      <workItem from="1560455872775" duration="3675000" />
+      <workItem from="1560473268952" duration="1183000" />
+      <workItem from="1561383175396" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="101729000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.5007133" side_tool="true" weight="0.2031722" />
+      <window_info id="Favorites" order="1" side_tool="true" weight="0.32930514" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30757576" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Errors In Solution" order="7" weight="0.3242424" />
+      <window_info anchor="bottom" id="NuGet" order="8" weight="0.64705884" />
+      <window_info anchor="bottom" id="Performance Profiler" order="9" show_stripe_button="false" weight="0.32867134" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32587412" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32798833" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.4708455" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.32867134" />
+      <window_info anchor="bottom" id="Build" order="17" weight="0.31666666" />
+      <window_info anchor="bottom" id="Database Console" order="18" weight="0.32867134" />
+      <window_info anchor="right" id="IL Viewer" order="0" show_stripe_button="false" weight="0.32952815" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="1" sideWeight="0.49928674" weight="0.23404256" />
+      <window_info anchor="right" id="Database" order="2" weight="0.21428572" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.18844984" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>098</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>45</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.Business/Concrete/CategoryManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.Business/Concrete/CartService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.Business/Abstract/IProductService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.Business/Abstract/ICategoryService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.Business/Abstract/ICartService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Add.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Admin/Update.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/05/c798fe6a/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/Custom.cs" />
+    <entry file="file://$USER_HOME$/İndirilenler/Abc/Abc.Northwind.MvcWebUI/Views/Account/Login.cshtml" />
+    <entry file="file://$USER_HOME$/İndirilenler/Abc/Abc.Northwind.MvcWebUI/Views/Account/Register.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/app.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Abc.Northwind.MvcWebUI.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="102" selection-start-line="28" selection-start-column="102" selection-end-line="28" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/CategoryList/Default.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CartListViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CartSummeryViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ShippingDetailsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/RegisterViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductUpdateViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductListViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/CategoryListViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/CartSummeryViewComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/UserSummeryViewComponents.cs" />
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/CategoryListViewComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/İndirilenler/Abc/Abc.Northwind.MvcWebUI/ViewComponents/UserSummaryViewComponent.cs" />
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/UserDetailsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/İndirilenler/Abc/Abc.Northwind.MvcWebUI/Views/Shared/Components/UserSummary/Default.cshtml" />
+    <entry file="file://$USER_HOME$/İndirilenler/Abc/Abc.Northwind.MvcWebUI/Views/_AdminLayout.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Account/Register.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Account/Login.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/UserSummery/Default.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/ViewComponents/UserSummeryViewComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d586fa59-26ea-43ab-91c5-49570bd6d586/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityRole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/MiddleWares/ApplicationBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_AdminLayout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Views/Shared/Components/CartSummery/Default.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.DataAccess/Concrete/EntityFramework/NorthwindContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Entities/CustomIdentityDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/ProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.Entites/Concrete/Category.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Models/ProductAddViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abc.Northwind.MvcWebUI/Controllers/AdminController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

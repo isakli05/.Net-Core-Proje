@@ -1,0 +1,15 @@
+@model Abc.Northwind.MvcWebUI.Models.CartSummeryViewModel
+
+
+@foreach (var item in Model.Cart.CartLines)
+{
+    <a class="dropdown-item">
+        @item.Product.ProductName <span class="badge badge-warning">@item.Quantity</span>
+    </a>
+}
+<div class="dropdown-divider"></div>
+    <a class="dropdown-item">
+        <span class=""></span>Total: @Model.Cart.Total</a>
+
+<div class="dropdown-divider"></div>
+<a class="dropdown-item" asp-controller="Cart" asp-action="List">Go To Cart Details</a>
